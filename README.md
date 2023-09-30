@@ -2,7 +2,7 @@
 
 Submitted by: Kanu Chandra
 
-This web app: Pictueres of dogs are shown and when clicked on, the user can see the dog breed.
+This web app: Pictures of dogs are shown and when clicked on, the user can see the dog breed.
 
 Time spent: 2 hours spent in total
 
